@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/bovit123" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/bovit123/bovit12345 alt="Github">
+  <a href="https://github.com/bovit123/bovit12345">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href=https://www.youtube.com/channel/UCRzntDTK8M5WIkhMHQ6Kl5Q" alt="Youtube channel" target="_blank" >
