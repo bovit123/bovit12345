@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🐋, I'm Hữu An</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">Làm delevoper ở Việt Nam </h3>
 
 - ✍Học Sinh : [Ha Noi city University of Technology and Education](https://hcmute.edu.vn) (HN).
 
@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/bovit123" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/bovit123 alt="Github">
+  <a href="https://github.com/bovit123/bovit12345 alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href=https://www.youtube.com/channel/UCRzntDTK8M5WIkhMHQ6Kl5Q" alt="Youtube channel" target="_blank" >
